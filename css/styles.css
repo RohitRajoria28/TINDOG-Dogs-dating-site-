@@ -1,0 +1,184 @@
+#title
+    {
+        
+    font-family:'Montserrat' sans-serif;
+    background-color: #ff4c68;
+    color: #fff;
+}
+.title-image{
+    transform: rotate(25deg);
+    width: 50%;
+    position: absolute;
+    right: 30%;
+    
+}
+.big-heading
+{
+    position: relative;
+    font-family: 'Montserrat Subrayada', sans-serif ;
+    font-size:  3.5rem;
+    line-height: 1.5;
+}
+.container-fluid
+{
+    width: 400px;
+    padding: 3% 15% ;
+}
+body{
+    font-family: 'Montserrat' ;
+}
+/*NAVBAR*/
+.navbar{
+
+    padding-bottom: 4.5rem;
+
+}
+ .tindog{
+    font-family:'ubuntu';
+    font-size: 3rem;
+    font-weight: bold;
+    color:   rgba(255,255,255,.5);
+
+}
+.tindog:hover{
+    color: #fff;
+}
+.navitem{
+    padding: 0 18px;
+
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+   
+    
+}
+.downloadbutton{
+    margin: 5% 5% 5% 3%;
+    padding: 7% 15%;
+}
+ .dog-img{
+    transform: rotate(25deg);
+    width: 60%;
+}
+.meet{
+     font-family: 'Bangers', cursive;
+     padding: 40px;
+     font-size:  3.5rem;
+     line-height: 1.5;
+}
+.download-button{
+    
+}
+.testimonials{
+    transform: rotateX(25);
+}
+
+/*featues section*/
+
+#features{
+    background-color:#fff;
+    padding: 7% 15% 7%;
+    position: relative;
+    z-index: 1;
+}
+.features{
+    font-family: 'montserrat-bold', sans-serif;
+}
+.pfeatures{
+    font-family: #8f8f8f;
+}
+ .feature-box{
+ text-align: center;
+ padding: 20px;
+ }
+ h3{
+     font-family: "montserrat-bold";
+ }
+ p{
+     color: gray;
+ }
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c67;
+
+
+}
+
+/*TESTIMONIAL SECT*/
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+.testi{
+    font-family: 'Anton', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5 ;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color:  #ff4c68;
+    text-align: center;
+    padding: 3rem;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* PRICING SECTION */
+
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+
+
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+
+/* CALL IN ACTION */
+
+#cta
+{
+    background-color:  #ff4c68;
+    padding: 7% 15%;
+     text-align: center;
+     color: #fff;
+
+   
+}
+.cta-heading{
+    font-family: 'Fjalla One-bold', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+/*FOOTER*/
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.social-icon
+{
+    margin: 20px 10px;
+    width: 30px;
+}
+
+
+
+
